@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:tensionlee/verify-fuction.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tensionlee@bitbucket.org/gglive/trading.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/GitCode" />
