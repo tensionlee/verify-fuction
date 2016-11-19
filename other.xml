@@ -7,6 +7,7 @@
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
+        <entry key="/Applications/anaconda/bin/python3.5" value="true" />
         <entry key="/usr/bin/python" value="false" />
       </map>
     </option>
